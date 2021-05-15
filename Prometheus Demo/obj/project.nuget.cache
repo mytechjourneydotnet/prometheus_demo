@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Qpl/A8KVTPWbHmDCzJCgcRK8z8hwWRwfN68fNRjiCh1NNVvaF/rSHkvFSRiNnLsVjnqvB8N77mRIw8xPU8HiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\320073868\\OneDrive - Philips\\Desktop\\Prometheus Demo\\Prometheus Demo\\Prometheus Demo\\Prometheus Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\320073868\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\320073868\\.nuget\\packages\\prometheus-net\\4.1.1\\prometheus-net.4.1.1.nupkg.sha512",
+    "C:\\Users\\320073868\\.nuget\\packages\\prometheus-net.aspnetcore\\4.1.1\\prometheus-net.aspnetcore.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

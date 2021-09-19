@@ -23,6 +23,7 @@ namespace Prometheus_Demo.Controllers
         [HttpGet("users/{userName}")]
         public async Task<IActionResult> GetUserByUsername(string userName)
         {
+            // This comment was added in the master
             counter.Inc();
             using (histogram.NewTimer())
             {
